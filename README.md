@@ -53,4 +53,8 @@ Some of the plots i used to visualize are :
 
 5.)Count plot
 
+By using pairplot we clearly observe that one species is linearly seperable from other two
+
+
+
    
