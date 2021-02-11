@@ -2,6 +2,16 @@
 
 Link for Iris dataset : https://www.kaggle.com/uciml/iris
 
+# Libraries that I have used are 
+
+1.)Numpy
+
+2.)Pandas
+
+3.)Matplotlib
+
+4.)Seaborn
+
 # Description of dataset
 
    The dataset contains five columns
@@ -40,5 +50,7 @@ Some of the plots i used to visualize are :
 3.)Line plot
 
 4.)Scatter plot
+
+5.)Count plot
 
    
