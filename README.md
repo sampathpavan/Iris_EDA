@@ -9,9 +9,13 @@ Link for Iris dataset : https://www.kaggle.com/uciml/iris
    The column names are as follows :
    
    1.)SepalLengthCm
+   
    2.)SepalWidthCm
+   
    3.)PetalLengthCm
+   
    4.)PetalWidthCm
+   
    5.)Species
    
   Out of these five columns four columns are of float datatype and Species is of type object(Categorical)
@@ -30,8 +34,11 @@ We can visualize the data by using different plots
 Some of the plots i used to visualize are :
 
 1.)Pair plot
+
 2.)Pie plot
+
 3.)Line plot
+
 4.)Scatter plot
 
    
