@@ -21,5 +21,17 @@ Link for Iris dataset : https://www.kaggle.com/uciml/iris
 
 We can see that there are no null values in the dataset
 
-we clearly see that Iris-setosa species is linearly separable from other two species(Iris-versicolor and Iris-virginica). The other two species which are Iris-versicolor and Iris-virginica are not linearly separable to each other.
+we clearly see that Iris-setosa species is linearly separable from other two species(Iris-versicolor and Iris-virginica). The other two species which are Iris-versicolor and Iris-
+
+virginica are not linearly separable to each other.
+
+We can visualize the data by using different plots
+
+Some of the plots i used to visualize are :
+
+1.)Pair plot
+2.)Pie plot
+3.)Line plot
+4.)Scatter plot
+
    
